@@ -133,3 +133,12 @@ console.clear();
 // let highNumber = highestScores(numberArray);
 // console.log(highNumber);
 
+function highestScores(a, b) {
+
+}
+let arr = [
+    [name, 20],
+    [age, 23],
+    [job, "teaching"]
+]
+highestScores(arr)
